@@ -1,4 +1,4 @@
-<b>Creating tools that matter</b>
+<h3>Creating tools that matter</h3>
 
-<p>Building one step at a time<\p>
-<p>JavaScript Reactjs Nodejs python and C#<\p>
+<h4> Building  one step at a time 
+JavaScript Reactjs Nodejs python and C# 
