@@ -1,17 +1,65 @@
-<p align="center">
-  <h1 align="center">Hello world i'm Ikki ⚡</h1>
-  <p align="center">I'm a Software developer with a kick in the pants <br/>Dart, Reactjs, TailwindCss, Flutter, Python, Nodejs</p>
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo
+20939
+Fork on GitHub
+6470
+
+back to edit
+
+copy-markdown
+
+download markdown
+
+download backup
+
+preview
+<h1 align="center">I'm Sadiq</h1>
+<h3 align="center">Passionate software developer from Nigeria.</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sed-iq" alt="sed-iq" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/ikki_tenrio" target="blank"><img src="https://img.shields.io/twitter/follow/ikki_tenrio?logo=twitter&style=for-the-badge" alt="ikki_tenrio" /></a> </p>
+
+- 💬 Ask me about **Flutter, Dart**
+
+- 📫 How to reach me **sediqabdullahi01@gmail.com**
+
+- ⚡ Fun fact **I love dark humor**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ikki_tenrio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ikki_tenrio" height="30" width="40" /></a>
 </p>
-<div align="center">
-  
-  <a href="mailto:sediqabdullahi01@gmail.com">
-    <img src="https://camo.githubusercontent.com/443a1f864f5b7f354e65595d3713156bfab31c7caa731f3f1d214b87aba63168/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" width="20"/>
-  </a> 
-  &nbsp;
-  <a href="https://wa.me/2348115724750">
-    <img src="https://camo.githubusercontent.com/f969159ccc10c7f708ac50536905fc11d0f1690a266c62eb610e1facd61bbfba/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f77686174736170702e737667" width="20"/>
-  </a>
-  &nbsp;
-    <a href="https://twitter.com/ikkiTenrio">
-    <img src="https://camo.githubusercontent.com/884fc1ad9e9ecd7d5c90d942de19e7f74649936a98ce4e9868f89dc2e9b79f84/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f782e737667" width="20"/>
-</div>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sed-iq&show_icons=true&locale=en" alt="sed-iq" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sed-iq&" alt="sed-iq" /></p>
+
+Support 🙏
+Are you using the tool and happy with it to create your GitHub Profile?
+Your kind support keeps open-source tools like this free for others.
+tweet github profile readme generator
+Let the world know how you feel using this tool. Share with others on twitter.
+Tip💰
+Buy ko-fi for rahuldkjainBuy me a ko-fi
+Donate rahuldkjain via paypal
+Buy rahuldkjain A CoffeeBuy me a coffee
+github profile markdown generator logo
+GitHub Profile README Generator
+Pages
+Addons
+Support
+About
+More
+Github
+Releases
+Issues
+Pull Requests
+Join Community
+Discord of the community
+Developed in India 🇮🇳
+Buy Me A Coffee
