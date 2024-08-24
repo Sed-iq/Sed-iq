@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-20939
-Fork on GitHub
-6470
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">I'm Sadiq</h1>
 <h3 align="center">Passionate software developer from Nigeria.</h3>
 
