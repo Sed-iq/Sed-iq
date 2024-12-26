@@ -1,5 +1,5 @@
-<h1 align="center">I'm Sadiq</h1>
-<h3 align="center">Passionate software developer from Nigeria.</h3>
+
+<h3 align="center">Passionate software developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sed-iq" alt="sed-iq" /></a> </p>
 
