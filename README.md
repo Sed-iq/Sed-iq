@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,55:1b3a2a,100:95BF47&height=210&section=header&text=Sadiq%20Abdullahi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Shopify%20Developer%20%C2%B7%20Full-Stack%20and%20Mobile%20Engineer&descAlignY=58&descSize=18" width="100%" alt="Sadiq Abdullahi, Shopify Developer and Full-Stack & Mobile Engineer" />
 
 <a href="https://www.buildwithsadiq.online">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=95BF47&center=true&vCenter=true&width=720&lines=Shopify+stores%2C+apps+and+inventory+sync+bots;Flutter+apps+used+by+10%2C000%2B+people;Ex-CTO+%E2%80%94+payments+live+in+5+countries;React+%2F+Next.js+front-ends+on+Node.js+backends" alt="Typing headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=95BF47&center=true&vCenter=true&width=720&lines=Shopify+stores%2C+apps+and+inventory+sync+bots;Flutter+apps+used+by+10%2C000%2B+people;CTO+%E2%80%94+payments+live+in+5+countries;React+%2F+Next.js+front-ends+on+Node.js+backends" alt="Typing headline" />
 </a>
 
 <p>
